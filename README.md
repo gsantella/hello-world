@@ -2,7 +2,6 @@
 My First Repository - Repo
 
 # This will make an H1 tag set
-## This will make an H2 tag set
 
 - item 1 in a list
 - item 2 in a list
